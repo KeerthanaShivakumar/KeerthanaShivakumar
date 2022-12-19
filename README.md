@@ -5,11 +5,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KeerthanaShivakumar)](https://git.io/streak-stats)
 
-# 🏆 **GITHUB TROPHY**
-
-![](https://github-profile-trophy.vercel.app/?username=KeerthanaShivakumar&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
-
-<a href="http://www.github.com/KeerthanaShivakumar"><img src="https://activity-graph.herokuapp.com/graph?username=KeerthanaShivakumar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a>
 
 <!--
 **KeerthanaShivakumar/KeerthanaShivakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
