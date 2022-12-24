@@ -1,9 +1,19 @@
-### Hi there 👋
-- 🌱 I’m currently learning Computer Science and Engineering
+<!--### Hi there 👋
+- 🌱 I’m currently in the junior year of university, pursuing Computer Science and Engineering
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Love jigsaw puzzles and Lego
+- :thought_balloon: Current Interests: Image Processing, Computer Vision, AR/VR, Computer Graphics, Databases
+- ⚡ Fun fact: Love swimming and solving jigsaw puzzles and Lego -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KeerthanaShivakumar)](https://git.io/streak-stats)
+<h1 align="center">Hello 👋, I'm Keerthana</h1>
+
+- 🌱 I’m currently in the junior year of university, pursuing Computer Science and Engineering
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Love swimming and solving jigsaw puzzles and Lego
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthanashivakumar&show_icons=true&locale=en&layout=compact" alt="keerthanashivakumar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthanashivakumar&show_icons=true&locale=en" alt="keerthanashivakumar" /></p>
+
 
 
 <!--
