@@ -10,10 +10,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love swimming and solving jigsaw puzzles and Lego
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthanashivakumar&show_icons=true&locale=en&layout=compact" alt="keerthanashivakumar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthanashivakumar&show_icons=true&locale=en" alt="keerthanashivakumar" /></p>
-
 
 
 <!--
