@@ -4,7 +4,7 @@
 - :thought_balloon: Current Interests: Image Processing, Computer Vision, AR/VR, Computer Graphics, Databases
 - ⚡ Fun fact: Love swimming and solving jigsaw puzzles and Lego -->
 
-<h1 align="center">Hello 👋, I'm Keerthana</h1>
+<h1 align="center">Hi there 👋, I'm Keerthana</h1>
 
 - 🌱 I’m currently in the junior year of university, pursuing Computer Science and Engineering
 - 😄 Pronouns: She/Her
