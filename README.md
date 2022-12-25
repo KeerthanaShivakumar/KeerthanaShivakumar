@@ -4,12 +4,11 @@
 - :thought_balloon: Current Interests: Image Processing, Computer Vision, AR/VR, Computer Graphics, Databases
 - ⚡ Fun fact: Love swimming and solving jigsaw puzzles and Lego -->
 
-<h1 align="center">Hi there 👋, I'm Keerthana</h1>
+<h2 align="left">Hi there 👋, I'm Keerthana</h2>
 
-- 🌱 I’m currently in the junior year of university, pursuing Computer Science and Engineering
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Love swimming and solving jigsaw puzzles and Lego
-
+- 🌱 Being a student, my key objective is to learn the fundamentals of computer science and engineering to ensure a strong foundation in my core subjects. I also reinforce the concepts learnt, by undertaking academic projects and participating in events and hackathons. I am keen to understand how modern technologies of computer science and engineering are used to solve business problems in organizations.
+- ⚡ My other interests include swimming and yoga along with solving jigsaw puzzles and Lego
+- :computer: Check out my website - 
 
 
 <!--
