@@ -7,8 +7,8 @@
 <h2 align="left">Hi there 👋, I'm Keerthana</h2>
 
 - 🌱 Being a student, my key objective is to learn the fundamentals of computer science and engineering to ensure a strong foundation in my core subjects. I also reinforce the concepts learnt, by undertaking academic projects and participating in events and hackathons. I am keen to understand how modern technologies of computer science and engineering are used to solve business problems in organizations.
+-  :book: My current academic interests include Image Processing, Computer Vision, AR/VR, Computer Graphics, Databases
 - ⚡ My other interests include swimming and yoga along with solving jigsaw puzzles and Lego
-- :computer: Check out my website - 
 
 
 <!--
