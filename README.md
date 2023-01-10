@@ -11,6 +11,7 @@
 - ⚡ My other interests include swimming and yoga along with solving jigsaw puzzles and Lego
 - 👩‍💻: Leetcode profile - https://leetcode.com/shivakumarkeerthana/
 - 👩‍💻: Hackerrank profile - https://www.hackerrank.com/shivakumarkeert1
+- ![](https://komarev.com/ghpvc/?username=KeerthanaShivakumar&color=grey)
 
 <!--
 **KeerthanaShivakumar/KeerthanaShivakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
